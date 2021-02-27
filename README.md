@@ -78,4 +78,26 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
   
   <img src="img/img3023.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
+  
+  <h2>MONTAGEM CONTRAPESO</h2>
+  <p></p>
+  <img src="img/img4010.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem contrapeso</figcaption>
+
+  <img src="img/img4011.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem contrapeso</figcaption>
+  
+  <h2>MONTAGEM BRAÇO</h2>
+  <p></p>
+  <img src="img/img4020.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem braço</figcaption>
+
+  <img src="img/img4021.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem braço</figcaption>
+  
+  <img src="img/img4021.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem braço</figcaption>
+  
+  <img src="img/img4022.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem braço</figcaption>
 </figure>
