@@ -17,17 +17,20 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be
   <figcaption>Montagem completa</figcaption>
 </figure>
 <figure>
-  <img src="img/img201.jpeg" alt="" width="640" height="360">
+  <img src="img/img200.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem camera</figcaption>
 
-  <img src="img/img202.jpeg" alt="" width="640" height="360">
+  <img src="img/img201.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem camera</figcaption>
   
-  <img src="img/img203.jpeg" alt="" width="640" height="360">
+  <img src="img/img202.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem camera</figcaption>
 </figure>
 
 <figure>
+  <img src="img/img300.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem garra</figcaption>
+  
   <img src="img/img301.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 
@@ -37,16 +40,16 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be
   <img src="img/img303.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img201.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
-
   <img src="img/img304.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
-  
+
   <img src="img/img305.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
   <img src="img/img306.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem garra</figcaption>
+  
+  <img src="img/img307.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 
   <img src="img/img308.jpeg" alt="" width="640" height="360">
