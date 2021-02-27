@@ -189,9 +189,6 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
   <img src="img/img5033.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem Estrutura amarela</figcaption>
-  
-  <img src="img/img5034.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem Estrutura amarela</figcaption>
   </figure>
   
   <h2>MONTAGEM Estrutura Azul</h2>
