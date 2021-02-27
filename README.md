@@ -1,8 +1,10 @@
-# ArmRobotSpike
+<h1>ArmRobotSpike</h1>
 
-Baseado na montagem deste video:
-https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be
+<p>Baseado na montagem deste video:
+https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
+<h2>MONTAGEM GARRA MOTOR</h2>
+<p></p>
 <figure>
   <img src="img/all.jpeg" alt="" width="1280" height="720">
   <figcaption>Todos as peças utilizadas</figcaption>
@@ -16,6 +18,9 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be
   <img src="img/img13.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem completa</figcaption>
 </figure>
+
+<h2>MONTAGEM CÂMERA</h2>
+<p></p>
 <figure>
   <img src="img/img200.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem camera</figcaption>
@@ -27,46 +32,50 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be
   <figcaption>Montagem camera</figcaption>
 </figure>
 
+<h2>MONTAGEM GARRA</h2>
+<p></p>
 <figure>
-  <img src="img/img300.jpeg" alt="" width="640" height="360">
+  <img src="img/img3000.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img301.jpeg" alt="" width="640" height="360">
+  <img src="img/img3001.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 
-  <img src="img/img302.jpeg" alt="" width="640" height="360">
+  <img src="img/img3002.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img303.jpeg" alt="" width="640" height="360">
+  <img src="img/img3003.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img304.jpeg" alt="" width="640" height="360">
+  <img src="img/img3004.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 
-  <img src="img/img305.jpeg" alt="" width="640" height="360">
+  <img src="img/img3005.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img306.jpeg" alt="" width="640" height="360">
+  <img src="img/img3006.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img307.jpeg" alt="" width="640" height="360">
+  <img src="img/img3007.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 
-  <img src="img/img308.jpeg" alt="" width="640" height="360">
+  <img src="img/img3008.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img309.jpeg" alt="" width="640" height="360">
+  <img src="img/img3009.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem garra</figcaption>
+  
+  <h2>MONTAGEM GARRA MOTOR</h2>
+  <p></p>
+  <img src="img/img3020.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 
-  <img src="img/img310.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
-
-  <img src="img/img311.jpeg" alt="" width="640" height="360">
+  <img src="img/img3021.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img312.jpeg" alt="" width="640" height="360">
+  <img src="img/img3022.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
   
-  <img src="img/img313.jpeg" alt="" width="640" height="360">
+  <img src="img/img3023.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem garra</figcaption>
 </figure>
