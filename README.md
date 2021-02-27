@@ -112,66 +112,122 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
  <p></p>
  <figure>
   <img src="img/img4030.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem braço</figcaption>
+  <figcaption>Montagem Motor Braço</figcaption>
 
   <img src="img/img4031.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem braço</figcaption>
+  <figcaption>Montagem Motor Braço</figcaption>
  </figure>
  
  <h2>MONTAGEM BRAÇO E MOTOR</h2>
  <p></p>
  <figure>
   <img src="img/img4050.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
 
   <img src="img/img4051.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
   
   <img src="img/img4052.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
 
   <img src="img/img4053.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
   
   <img src="img/img4054.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
   
   <img src="img/img4055.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
 
   <img src="img/img4056.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Braço e Motor</figcaption>
   
   <img src="img/img4057.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
-</figure>
+  <figcaption>Montagem Braço e Motor</figcaption>
+  </figure>
 
-<h2>MONTAGEM MOTOR BASE</h2>
- <p></p>
- <figure>
+  <h2>MONTAGEM MOTOR BASE</h2>
+  <p></p>
+  <figure>
   <img src="img/img5010.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Motor Base</figcaption>
 
   <img src="img/img5011.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Motor Base</figcaption>
   
   <img src="img/img5012.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Motor Base</figcaption>
 
   <img src="img/img5013.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <figcaption>Montagem Motor Base</figcaption>
   
-  <img src="img/img4054.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <img src="img/img5014.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Motor Base</figcaption>
+  </figure>
+
+  <h2>MONTAGEM HUB</h2>
+  <p></p>
+  <figure>
+  <img src="img/img5020.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem HUB</figcaption>
+
+  <img src="img/img5021.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem HUB</figcaption>
+  </figure>
+
+  <h2>MONTAGEM Estrutura Amarela</h2>
+  <p></p>
+  <figure>
+  <img src="img/img5030.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura amarela</figcaption>
+
+  <img src="img/img5031.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura amarela</figcaption>
   
-  <img src="img/img4055.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <img src="img/img5032.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura amarela</figcaption>
 
-  <img src="img/img4056.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
+  <img src="img/img5033.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura amarela</figcaption>
   
-  <img src="img/img4057.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem garra</figcaption>
-</figure>
+  <img src="img/img5034.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura amarela</figcaption>
+  </figure>
+  
+  <h2>MONTAGEM Estrutura Azul</h2>
+  <p></p>
+  <figure>
+  <img src="img/img5040.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura azul</figcaption>
 
+  <img src="img/img5041.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura azul</figcaption>
+  
+  <img src="img/img5042.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura azul</figcaption>
 
+  <img src="img/img5043.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura azul</figcaption>
+  
+  <img src="img/img5044.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estrutura azul</figcaption>
+  </figure>
+  
+  <h2>MONTAGEM Estruturas</h2>
+  <p></p>
+  <figure>
+  <img src="img/img5050.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estruturas</figcaption>
+
+  <img src="img/img5051.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estruturas</figcaption>
+  
+  <img src="img/img5052.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estruturas</figcaption>
+
+  <img src="img/img5053.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estruturas</figcaption>
+  
+  <img src="img/img5054.jpeg" alt="" width="640" height="360">
+  <figcaption>Montagem Estruturas</figcaption>
+  </figure>
