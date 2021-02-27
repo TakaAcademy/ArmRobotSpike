@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
   <img src="img/all.jpeg" alt="" width="1280" height="720">
   <figcaption>Todos as peças utilizadas</figcaption>
   
-  <img src="img/img11.jpeg" alt="" width="360" height="640">
+  <img src="img/img11.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem completa</figcaption>
 
   <img src="img/img12.jpeg" alt="" width="640" height="360">
@@ -23,13 +23,13 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 <p></p>
 <figure>
   <img src="img/img200.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem camera</figcaption>
+  <figcaption>Montagem câmera</figcaption>
 
   <img src="img/img201.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem camera</figcaption>
+  <figcaption>Montagem câmera</figcaption>
   
   <img src="img/img202.jpeg" alt="" width="640" height="360">
-  <figcaption>Montagem camera</figcaption>
+  <figcaption>Montagem câmera</figcaption>
 </figure>
 
 <h2>MONTAGEM GARRA</h2>
