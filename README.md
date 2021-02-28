@@ -3,10 +3,18 @@
 <p>Baseado na montagem deste video:
 https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
-Large HUB + battery	https://www.bricklink.com/v2/catalog/catalogitem.page?S=45601-1&name=Large%20Hub%20for%20SPIKE%20Prime&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}	1
-color sensor	https://www.bricklink.com/v2/catalog/catalogitem.page?S=45605-1&name=Color%20Sensor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}	1
-Large Angular Motor	https://www.bricklink.com/v2/catalog/catalogitem.page?S=45602-1&name=Large%20Angular%20Motor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}	1
-Electric, motor small angular	https://www.bricklink.com/v2/catalog/catalogitem.page?P=54696c01&name=Electric,%20Motor%20Small%20Angular%20-%20Spike%20Prime&category=%5BElectric,%20Motor%5D#T=C	2
+<a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=45601-1&name=Large%20Hub%20for%20SPIKE%20Prime&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}">
+<img src="img_lego_pecas/bb1142c01.png" alt="Large Hub + battery" style="width:42px;height:42px;">1 unidade de Large HUB + battery</a>
+<p></p>
+<a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=45605-1&name=Color%20Sensor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}">
+<img src="img_lego_pecas/37308c01.png" alt="color sensor" style="width:42px;height:42px;">1 unidade de color sensor</a>
+<p></p>
+<a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=45602-1&name=Large%20Angular%20Motor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}">
+<img src="img_lego_pecas/54675c01.png" alt="Large Angular Motor" style="width:42px;height:42px;">1 unidade de Large Angular Motor</a>
+<p></p>
+<a href="https://www.bricklink.com/v2/catalog/catalogitem.page?P=54696c01&name=Electric,%20Motor%20Small%20Angular%20-%20Spike%20Prime&category=%5BElectric,%20Motor%5D#T=C">
+<img src="img_lego_pecas/54696c01.png" alt="Electric, motor small angular" style="width:42px;height:42px;">2 unidade de Electric, motor small angular</a>
+<p></p>
 Wheel 56 x 14 Technic with Axle Hole and 8 Pin Holes with Fixed Medium Azure Rubber Tire	https://www.bricklink.com/v2/catalog/catalogitem.page?P=39367c01	3
 Medium Azure Technic, Liftarm, Modified Frame Thick 11 x 15 Open Center	https://www.bricklink.com/v2/catalog/catalogitem.page?P=39790&idColor=156	2
 Yellow Technic, Panel Plate 11 x 19 x 1	https://www.bricklink.com/v2/catalog/catalogitem.page?P=39369&idColor=3	2
