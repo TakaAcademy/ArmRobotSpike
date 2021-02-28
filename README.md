@@ -3,7 +3,6 @@
 <p>Baseado na montagem deste video:
 https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
-item	descricao	qtd
 Large HUB + battery	https://www.bricklink.com/v2/catalog/catalogitem.page?S=45601-1&name=Large%20Hub%20for%20SPIKE%20Prime&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}	1
 color sensor	https://www.bricklink.com/v2/catalog/catalogitem.page?S=45605-1&name=Color%20Sensor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}	1
 Large Angular Motor	https://www.bricklink.com/v2/catalog/catalogitem.page?S=45602-1&name=Large%20Angular%20Motor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}	1
