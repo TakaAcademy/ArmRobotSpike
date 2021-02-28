@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
 <a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=45601-1&name=Large%20Hub%20for%20SPIKE%20Prime&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}">
-<img src="img_lego_pecas/bb1142c01.png" alt="Large Hub + battery" style="width:42px;height:42px;">1 unidade de Large HUB + battery</a>
+<img src="img_lego_pecas/bb1142c01.png" alt="Large Hub + battery" width:42px height:42px">1 unidade de Large HUB + battery</a>
 <p></p>
 <a href="https://www.bricklink.com/v2/catalog/catalogitem.page?S=45605-1&name=Color%20Sensor&category=%5BEducational%20&%20Dacta%5D%5BSPIKE%20Prime%5D#T=S&O={%22iconly%22:0}">
 <img src="img_lego_pecas/37308c01.png" alt="color sensor" style="width:42px;height:42px;">1 unidade de color sensor</a>
