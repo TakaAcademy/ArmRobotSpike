@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 <img src="img_lego_pecas/biscuitBk.png" alt="" width="80" height="80">
 <figcaption>5 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/conectorEixo2Fio.png" alt="" width="80" height="80">
+<img src="img_lego_pecas/conectorEixo2FioM.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
 <img src="img_lego_pecas/barraPerp3M.png" alt="" width="80" height="80">
