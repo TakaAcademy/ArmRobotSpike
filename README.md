@@ -3,31 +3,79 @@
 <p>Baseado na montagem deste video:
 https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
-<img src="img_lego_pecas/hub.png" alt="" width="80" height="80">
-<figcaption>1 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/snColor.png" alt="" width="80" height="80">
-<figcaption>1 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/largeMotor.png" alt="" width="80" height="80">
-<figcaption>1 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/smallMotor.png" alt="" width="80" height="80">
-<figcaption>2 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/wheelSm.png" alt="" width="80" height="80">
-<figcaption>3 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/frame11x15.png" alt="" width="80" height="80">
-<figcaption>2 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/panel11x19x1.png" alt="" width="80" height="80">
-<figcaption>1 unidade</figcaption>
-<p></p>
-<img src="img_lego_pecas/liftarm7x3.png" alt="" width="80" height="80">
+<table style="width:100%">
+  <tr>
+    <th>ITEM</th>
+    <th>Quantidade</th> 
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/hub.png" alt="" width="80" height="80"></td>
+    <td>1 ud</td>
+    <td>HUB</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/snColor.png" alt="" width="80" height="80"></td>
+    <td>1 ud</td>
+    <td>Sensor de Côr</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/largeMotor.png" alt="" width="80" height="80"></td>
+    <td>1 ud</td>
+    <td>Mootor grande</td>
+  </tr>
+    <tr>
+    <td><img src="img_lego_pecas/smallMotor.png" alt="" width="80" height="80"></td>
+    <td>2 ud</td>
+    <td>Motores pequenos</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/wheelSm.png" alt="" width="80" height="80"></td>
+    <td>3 ud</td>
+    <td>Rodas pequenas</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/frame11x15.png" alt="" width="80" height="80"></td>
+    <td>2 ud</td>
+    <td>frame 11x15 azuis</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/panel11x19x1.png" alt="" width="80" height="80"></td>
+    <td>2 ud</td>
+    <td>painel 11x19 amarelo</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/liftarm7x3.png" alt="" width="80" height="80"></td>
+    <td>4 ud</td>
+    <td>lift Arm 7x3</td>
+  </tr>
+  <tr>
+    <td><img src="img_lego_pecas/beam7M.png" alt="" width="80" height="80"></td>
+    <td>2 ud</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1 ud</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1 ud</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>1 ud</td>
+    <td></td>
+  </tr>
+</table>
+
+
+
 <figcaption>4 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/beam7M.png" alt="" width="80" height="80">
+
 <figcaption>2 unidade</figcaption>
 <p></p>
 <img src="img_lego_pecas/beam15M.png" alt="" width="80" height="80">
