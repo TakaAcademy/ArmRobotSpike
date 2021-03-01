@@ -114,7 +114,7 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
   </tr>
   <tr>
     <td><img src="img_lego_pecas/pino3McomFriction.png" alt="" width="80" height="80"></td>
-    <td>5 ud</td>
+    <td>3 ud</td>
     <td>Pino 3M com fricção</td>
     <td></td>
     <td><img src="img_lego_pecas/pinoEixocomFriction.png" alt="" width="80" height="80"></td>
@@ -144,9 +144,9 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
     <td>2 ud</td>
     <td>Painel curvo 11x3 azul</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="img_lego_pecas/pino3McomFrictionAzul.png" alt="" width="80" height="80"></td>
+    <td>5</td>
+    <td>Pino 3M com fricção azul</td>
   </tr>
 </table>
 
