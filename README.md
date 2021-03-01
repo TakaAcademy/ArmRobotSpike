@@ -150,20 +150,26 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
   </tr>
 </table>
 
-<h2>MONTAGEM GARRA MOTOR</h2>
+<h2>PEÇAS UTILIZADAS</h2>
 <p></p>
 <figure>
   <img src="img/all.jpeg" alt="" width="1280" height="720">
   <figcaption>Todos as peças utilizadas</figcaption>
-  
-  <img src="img/img11.jpeg" alt="" width="640" height="360">
+</figure>
+
+<h2>MONTAGEM GERAL</h2>
+<p></p>
+<figure>
+  <figcaption>Montagem completa</figcaption>
+  <img src="img/img11.jpeg" alt="" width="640" height="360">  <figcaption>Montagem completa</figcaption>
   <figcaption>Montagem completa</figcaption>
 
   <img src="img/img12.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem completa</figcaption>
-  
+  <p>
   <img src="img/img13.jpeg" alt="" width="640" height="360">
   <figcaption>Montagem completa</figcaption>
+  </p>
 </figure>
 
 <h2>MONTAGEM CÂMERA</h2>
