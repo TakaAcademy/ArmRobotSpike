@@ -3,94 +3,94 @@
 <p>Baseado na montagem deste video:
 https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
 
-<img src="img_lego_pecas/hub.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/hub.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/snColor.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/snColor.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/largeMotor.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/largeMotor.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/smallMotor.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/smallMotor.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/wheelSm.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/wheelSm.png" alt="" width="80" height="80">
 <figcaption>3 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/frame11x15.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/frame11x15.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/panel11x19x1.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/panel11x19x1.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/liftarm7x3.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/liftarm7x3.png" alt="" width="80" height="80">
 <figcaption>4 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/beam7M.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/beam7M.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/beam15M.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/beam15M.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/liftarm7x3x3.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/liftarm7x3x3.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/beam1x2B.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/beam1x2B.png" alt="" width="80" height="80">
 <figcaption>3 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/gear28.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/gear28.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/conexaoH3x5.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/conexaoH3x5.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/panel3x11x1.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/panel3x11x1.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/beam5M.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/beam5M.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/biscuitMg.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/biscuitMg.png" alt="" width="80" height="80">
 <figcaption>5 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/biscuitBl.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/biscuitBk.png" alt="" width="80" height="80">
 <figcaption>5 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/conectorEixo2Fio.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/conectorEixo2Fio.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/barraPerp3M.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/barraPerp3M.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/conectorBorracha.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/conectorBorracha.png" alt="" width="80" height="80">
 <figcaption>4 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/eixo3M.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/eixo3M.png" alt="" width="80" height="80">
 <figcaption>4 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/pino3McomFriction.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/pino3McomFriction.png" alt="" width="80" height="80">
 <figcaption>5 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/pinoEixoComFriction.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/pinoEixocomFriction.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/pinoEixosemFriction.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/pinoEixosemFriction.png" alt="" width="80" height="80">
 <figcaption>9 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/pino3McomFriction.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/pino3McomFriction.png" alt="" width="80" height="80">
 <figcaption>3 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/pinoSemFriction.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/pinoSemFriction.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/eixo9M.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/eixo9M.png" alt="" width="80" height="80">
 <figcaption>1 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/panelCurved11x3.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/panelCurved11x3.png" alt="" width="80" height="80">
 <figcaption>2 unidade</figcaption>
 <p></p>
-<img src="img_lego_pecas/pinoFriction.png" alt="" width="42" height="42">
+<img src="img_lego_pecas/pinoFriction.png" alt="" width="80" height="80">
 <figcaption>72 unidade</figcaption>
 <p></p>
 
