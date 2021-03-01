@@ -126,9 +126,9 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
     <td>9 ud</td>
     <td>Pino eixo sem fricção</td>
     <td></td>
-    <td><img src="img_lego_pecas/pino3McomFriction.png" alt="" width="80" height="80"></td>
-    <td>3 ud</td>
-    <td>Pino 3M com fricção</td>
+    <td><img src="img_lego_pecas/pinoFriction.png" alt="" width="80" height="80"></td>
+    <td>72 ud</td>
+    <td>Pino com fricção preto</td>
   </tr>
   <tr>
     <td><img src="img_lego_pecas/pinoSemFriction.png" alt="" width="80" height="80"></td>
@@ -144,9 +144,9 @@ https://www.youtube.com/watch?v=7oUTjTM3tak&feature=youtu.be</p>
     <td>2 ud</td>
     <td>Painel curvo 11x3 azul</td>
     <td></td>
-    <td><img src="img_lego_pecas/pinoFriction.png" alt="" width="80" height="80"></td>
-    <td>72 ud</td>
-    <td>Conector com fricção</td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
